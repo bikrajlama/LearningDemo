@@ -7,5 +7,9 @@ namespace LearningDemo
     class CollectionCreation
     {
         //have to create collections here
+        private void CreateDictionary()
+        {
+            Console.Write("Print dictionary");
+        }
     }
 }

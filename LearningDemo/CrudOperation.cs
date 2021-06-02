@@ -6,6 +6,9 @@ namespace LearningDemo
 {
     public class CrudOperation
     {
-
+        private void SortedLists()
+        {
+            Console.WriteLine("Creating list");
+        }
     }
 }
